@@ -401,7 +401,7 @@ nav::after {
 .leg-box.selected  { border-color: var(--teal); background: linear-gradient(135deg, var(--teal), var(--accent)); }
 .leg-box.booked    { border-color: var(--border); background: var(--border); }
 
-/* Summary box */
+/* Summary boxx */
 .order-summary {
   background: #F7FBFF;
   border: 1.5px solid var(--border);

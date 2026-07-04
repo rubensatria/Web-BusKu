@@ -607,7 +607,7 @@ let sortAsc = true;
 let currentPage = 1;
 const perPage = 6;
  
-// ───── RENDER BERITA ─────
+// ───── RENDER BERITAA ─────
 // fungsi untuk merender kartu-kartu berita ke #beritaGrid
 function renderBerita() {
   const grid = document.getElementById('beritaGrid');
